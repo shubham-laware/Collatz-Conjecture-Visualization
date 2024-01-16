@@ -16,6 +16,8 @@
 </ol>
 
 <h2>Live Project Link</h2>
-<a hrerf="https://collatz-viz.vercel.app/">
-<button>Visit</button>
-</a>
+<button>
+  <a hrerf="https://collatz-viz.vercel.app/">Visit</a>
+</button>
+
+
